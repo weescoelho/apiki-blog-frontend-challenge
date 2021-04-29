@@ -23,3 +23,13 @@
     row-gap: 20px;
   }
 }
+
+.button{
+  background:blue;
+  padding: 1rem;
+  color:white;
+  border:none;
+  border-radius: .2rem;
+  margin-top: 1rem;
+  cursor:pointer;
+}

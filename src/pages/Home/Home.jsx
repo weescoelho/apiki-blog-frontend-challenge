@@ -34,8 +34,8 @@ const Home = () => {
         const posts = res.data;
         setData(posts);
       });
-    }else{
-      setNextPage(2)
+    } else {
+      setNextPage(2);
       api.get(`posts?_embed&categories=518&page=1`).then((res) => {
         const posts = res.data;
         setData(posts);
@@ -49,7 +49,7 @@ const Home = () => {
       <section className={styles.posts}>
         {data && data.map((post) => <Post key={data.id} data={post} />)}
       </section>
-      <button onClick={handleLoadMorePost} style={{ display: "block" }}>
+      <button onClick={handleLoadMorePost} className={styles.button}>
         Carregar mais...
       </button>
     </main>
