@@ -1,0 +1,27 @@
+.post{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: .5rem;
+  border:1px solid #eee;
+  border-radius: .5rem;
+}
+
+.postImage img{
+  max-width: 300px;
+  display: block;
+}
+
+.postIntroContent{
+  max-width: 300px;
+  color:#333;
+}
+
+.titleLink{
+  width: 250px;
+  display: block;
+  text-decoration: none;
+  padding-top:8px;
+  color:rgb(60, 145, 243);
+}
+
