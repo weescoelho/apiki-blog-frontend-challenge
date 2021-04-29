@@ -1,5 +1,4 @@
 import React from "react";
-import axios from "axios";
 import api from "../../services/api";
 import Post from "../Post/Post";
 import styles from "./Home.module.css";
