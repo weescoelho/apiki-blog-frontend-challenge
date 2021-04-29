@@ -8,13 +8,13 @@
 <h1 align="center">Apiki Blog - Teste de Front-end</h1>
 
 <p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/weescoelho/apiki-blog?color=56BEB8">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/weescoelho/apiki-blog-frontend-challenge?color=56BEB8">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/weescoelho/apiki-blog?color=56BEB8">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/weescoelho/apiki-blog-frontend-challenge?color=56BEB8">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/weescoelho/apiki-blog?color=56BEB8">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/weescoelho/apiki-blog-frontend-challenge?color=56BEB8">
 
-  <img alt="Licença" src="https://img.shields.io/github/license/weescoelho/apiki-blog?color=56BEB8">
+  <img alt="Licença" src="https://img.shields.io/github/license/weescoelho/apiki-blog-frontend-challenge?color=56BEB8">
 
 
 <p align="center">
