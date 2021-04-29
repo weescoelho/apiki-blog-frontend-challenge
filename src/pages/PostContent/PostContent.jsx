@@ -29,6 +29,9 @@ const PostContent = () => {
           <section className="container">
             <h1 style={{fontSize:'36px'}}>{dataContent[0].title.rendered}</h1>
             <main className={styles.post}>
+              <div>
+    
+              </div>
               <div
                 className={styles.text}
                 dangerouslySetInnerHTML={{
